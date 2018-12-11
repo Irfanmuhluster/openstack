@@ -1,0 +1,6 @@
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_NAME=irvan
+export OS_USERNAME=irvan
+export OS_PASSWORD=M0nalisa
+export OS_AUTH_URL=http://rocky-controller.jcamp.net:5000/v3/

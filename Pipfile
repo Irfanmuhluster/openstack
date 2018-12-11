@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[requires]
+
+python_version = "3.6"
+
+
+[packages]
+
+requests = "*"
+python-cli-ui = "==0.6.1"
+python-keystoneclient = "*"
+python-novaclient = "*"
+python-glanceclient = "*"
+python-neutronclient = "*"
+python-utils = "*"
+utils = "*"

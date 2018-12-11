@@ -1,0 +1,24 @@
+{
+	"auth": {
+		"identity": {
+			"methods": ["password"],
+			"password": {
+				"user": {
+					"domain": {
+						"name": "Default"
+					},
+					"name": "irvan",
+					"password": "M0nalisa"
+				}
+			}
+		},
+		"scope": {
+			"project": {
+				"domain": {
+					"name": "Default"
+				},
+				"name": "irvan"
+			}
+		}
+	}
+}
